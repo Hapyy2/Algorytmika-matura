@@ -6,8 +6,8 @@ Algorytmy zawarte w wymaganiach maturalnych z informatyki. Zawarte w podfolderac
       • Playlista z algorytmami: https://www.youtube.com/watch?v=xo2aoAMN-4A&list=PLpEP9TjZ__-Ff6YYZSZ0EAd54AdVFXOf5<br>
       • Lista algorytmów(prezentacja): https://drive.google.com/file/d/1dvrYmrPyoPpDFad3TAGVZQe7lulAxWy_/view<br>
       • Lista wymagań maturalnych: https://drive.google.com/file/d/1yyrOrK570xdNTbCbr0cM4SxoIwrluZRr/view<br>
-      • Strona Pani Małgorzaty z wieloma pomocami: https://mpiekarska.vilo.bydgoszcz.pl/algorytmika<br>
+      • Strona Pani Małgorzaty z wieloma pomocami: https://mpiekarska.vilo.bydgoszcz.pl/algorytmika<br><br>
 <p>2. Niepełny spis algorytmów:</p>
-      • https://www.algorytm.edu.pl/algorytmy-maturalne.html<br>
+      • https://www.algorytm.edu.pl/algorytmy-maturalne.html<br><br>
 <p>3. Repozytorium github z wieloma pomocami:</p>
       • https://github.com/wernexnrs/MATURA-INFORMATYKA<br>
