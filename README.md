@@ -1,5 +1,5 @@
-# Algorytmika-matura
-Algorytmy zawarte w wymaganiach maturalnych z informatyki. Zawarte w podfolderach wszystkie wykonane są w pythonie. 
+# Informatyka-matura 
+Algorytmy zawarte w wymaganiach maturalnych z informatyki. Zawarte w podfolderach wszystkie wykonane są w pythonie.
 
 <h1>Przydatne źródła do nauki:</h1>
 <p><b>1.</b> Filmy oraz materiały Małgorzaty Piekarskiej:</p>
