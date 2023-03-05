@@ -12,4 +12,5 @@ Algorytmy zawarte w wymaganiach maturalnych z informatyki. Zawarte w podfolderac
 <p><b>3.</b> Repozytorium github z wieloma pomocami:</p>
       • https://github.com/wernexnrs/MATURA-INFORMATYKA<br><br>
 <p><b>4.</b> Strona z testami maturalnymi:</p>
-      • https://informatyka.testy.dlamaturzysty.info/
+      • https://informatyka.testy.dlamaturzysty.info/<br>
+      • https://zadania.dlamaturzysty.info/s/5159/81431-informatyka.htm<br><br>
