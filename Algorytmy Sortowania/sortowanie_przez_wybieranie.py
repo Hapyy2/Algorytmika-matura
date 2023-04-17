@@ -1,7 +1,6 @@
 # Sortowanie przez wybieranie polega na przechodzeniu przez całą tablicę w poszukiwaniu najmniejszej wartości. Po
 # przejściu przez całą tablicę i jej znalezieniu algorytm zamienia miejscami wartość z brzegu nieposortowanych wartości
-# z nowo znalezioną najmniejszą. Jego złożoność jest kwadratowa ze względu na ciągłość w formie ciągu arytmetycznego
-# co wykazujemy wzorem: (n-1)*(1+n-1)/2=(n^2-n)/2
+# z nowo znalezioną najmniejszą. Jego złożoność jest kwadratowa
 import random
 
 print("Podaj wielkość zbioru:")
