@@ -1,7 +1,6 @@
 # Sortowanie przez wybieranie polega na postawieniu 'ściany' między posortowaną i nieposortowaną częścią zbioru. W
 # kolejnych iteracjach algorytmu porównujemy element spoza posortowanej części zbioru z resztą dopóki nie natkniemy się
-# na mniejszą od niej wartość np. 2 < 3 lub 1 < 3. Jego złożoność jest kwadratowa ze względu na ciągłość w formie ciągu
-# arytmetycznego co wykazujemy wzorem: (n-1)*(1+n-1)/2=(n^2-n)/2. Złożoność ta reprezentuje ten algorytm w najgorszym
+# na mniejszą od niej wartość np. 2 < 3 lub 1 < 3. Jego złożoność jest kwadratowa co reprezentuje ten algorytm w najgorszym
 # wypadku.
 import random
 
