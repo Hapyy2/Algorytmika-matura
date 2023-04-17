@@ -1,7 +1,6 @@
 # Sortowanie bąbelkowe tabeli polega na naprzemiennym zamienianu miejscami 2 wartości od lewej do prawej w przypadku
 # większości lub mniejszości. Jest to mało wydajny typ sortowania, ponieważ nawet w wypadku braku potrzeby zamiany
-# algorytm i tak przez to przechodzi. Jego złożoność jest kwadratowa ze względu na ciągłość w formie ciągu
-# arytmetycznego co wykazujemy wzorem: (n-1)*(1+n-1)/2=(n^2-n)/2
+# algorytm i tak przez to przechodzi. 
 import random
 
 print("Podaj wielkość zbioru:")
