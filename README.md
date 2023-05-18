@@ -14,3 +14,5 @@ Algorytmy zawarte w wymaganiach maturalnych z informatyki. Zawarte w podfolderac
 <p><b>4.</b> Strona z testami maturalnymi:</p>
       • https://informatyka.testy.dlamaturzysty.info/<br>
       • https://zadania.dlamaturzysty.info/s/5159/81431-informatyka.htm<br><br>
+<p><b>5.</b> Świetna strona do nauki od podstaw:</p>****
+      • https://nuwis.pl/
